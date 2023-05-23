@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/cmss13-devs/cmss13"><img src="https://raw.githubusercontent.com/cmss13-devs/.github/master/assets/banner.png" alt="CM-SS13" width="700"></a>
+<a href="https://github.com/cmss13-devs/cmss13"><img src="https://raw.githubusercontent.com/cmss13-devs/.github/master/assets/banner.png" alt="CM-SS13" width="400"></a>
 </p>
 
 Welcome to the organization page for CM-SS13. 
@@ -16,6 +16,3 @@ Our forums are where we get most of our feedback, suggestions and wherever a lon
 
 [<img src="https://raw.githubusercontent.com/cmss13-devs/.github/master/assets/github.png" alt="Github" width="150" align="left">](https://github.com/cmss13-devs/cmss13)
 All contributing and developing matters go through our Github repository, including reporting issues and making Pull Requests.
-
-[<img src="https://raw.githubusercontent.com/cmss13-devs/.github/master/assets/banner.png" alt="Wiki" width="150" align="left">](https://cm-ss13.com/wiki)
-Our wiki is a great resource for guidance as to how the game works, with detailed explanations to our world and setting also being available.
