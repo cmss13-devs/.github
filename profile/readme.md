@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://github.com/cmss13-devs/cmss13"><img width="512" height="143" alt="Banner2 0CMSS134-transparant" src="https://github.com/user-attachments/assets/b0fdd458-90bd-4757-9363-ebc2b1dc8d18" />
+<a href="https://github.com/cmss13-devs/cmss13"><img width="512" height="143" alt="Banner2 0CMSS134" src="https://github.com/user-attachments/assets/9a5ac48e-04ca-40cd-822a-34db95348223" />
+
 
 Welcome to the organization page for CM-SS13 & CM-SS14. 
 
