@@ -4,8 +4,7 @@
 
 Welcome to the organization page for CM-SS13 & CM-SS14. 
 
-Briefly, we're the maintainers behind a massively multiplayer roleplay/team death match game
-, spinning off from [Space Station 13 (SS13)](https://spacestation13.com). 
+Briefly, we're the maintainers behind a massively multiplayer roleplay/team deathmatch game, spinning off from [Space Station 13 (SS13)](https://spacestation13.com). 
 
 ## Our Links
 
